@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyAlgebra",
+        "repositoryURL": "https://github.com/koher/SwiftyAlgebra.git",
+        "state": {
+          "branch": null,
+          "revision": "44c947e167d42ece692ca0647dc3957ef225aee3",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
